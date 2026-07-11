@@ -174,4 +174,20 @@ nav ul {
 }
 
 /* footer section start  */
+footer{
+    background-color: #0D1B2A;
+    display: flex;
+    justify-content: space-between;
 
+}
+.footer-left{
+    color: aliceblue;
+    padding: 50px;
+    
+    justify-content: space-between;
+}
+.footer-right{
+    color: aliceblue;
+    padding: 30px
+;
+}
