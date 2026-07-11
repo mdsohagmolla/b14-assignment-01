@@ -129,3 +129,49 @@ nav ul {
     font-weight: bold;
     text-align: center;
 }
+
+/* card section start  */
+
+.card-head{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    gap: 8px;
+
+    
+}
+.card {
+    border: 1px solid wheat;
+    padding: 20px;
+    border-radius: 5px;
+    color: black;
+}
+.card ul{
+    display: inline-block;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.outline-btn{
+    background-color:white;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 25px;
+    color: #2563EB;
+    border: 1px solid #2563EB;
+    cursor: pointer;
+}
+
+.active{
+    background-color: #0F172A;
+     color: white;
+}
+
+/* footer section start  */
+
