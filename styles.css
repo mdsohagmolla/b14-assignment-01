@@ -187,7 +187,10 @@ footer{
     justify-content: space-between;
 }
 .footer-right{
+    display: flex;
     color: aliceblue;
-    padding: 30px
+    padding: 40px;
+    gap: 30px;
+
 ;
 }
